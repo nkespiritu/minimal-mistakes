@@ -11,15 +11,15 @@ I'm Nika, a data scientist experienced with Python programming. I enjoy translat
 
 ## Education
 
-:seedling: Bachelor of Science in Economics \
-University of the Philippines Diliman \
-2013 - 2017
-
-:sunflower: Master of Science in Data Science \
+:sunflower: **Master of Science in Data Science** \
 Asian Institute of Management
 2020 - 2021.
 
-Random tidbit: I spent *a week* at the AIM campus and I only briefly saw my classmates and professors, until the country went on lockdown starting March 15, 2020. I pursued my Master's degree during the height of the pandemic, because I knew this is what I would have done regardless of the state of the nation.
+:seedling: **Bachelor of Science in Economics** \
+University of the Philippines Diliman \
+2013 - 2017
+
+Random tidbit: I spent *a week* at the AIM campus and I only briefly saw my classmates and professors, until the country went on lockdown starting March 15, 2020. I pursued my Master's degree during the height of the pandemic, because I've always know I've wanted to do this.
 
 ## What I'm up to these days
 
