@@ -12,8 +12,8 @@ I'm Nika, a data scientist experienced with Python programming. I enjoy translat
 ## Education
 
 :sunflower: **Master of Science in Data Science** \
-Asian Institute of Management
-2020 - 2021.
+Asian Institute of Management\
+2020 - 2021
 
 :seedling: **Bachelor of Science in Economics** \
 University of the Philippines Diliman \
