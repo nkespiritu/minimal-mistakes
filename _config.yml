@@ -108,7 +108,7 @@ author:
   email            : "nkoespiritu@gmail.com"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/nika-espiritu/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -130,7 +130,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/nika-espiritu/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
