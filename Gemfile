@@ -1,3 +1,10 @@
 source "https://rubygems.org"
-gemspec
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll'
 gem 'jemoji'
+gem 'jekyll-paginate'
+gem 'jekyll-include-cache'
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
+gem 'jekyll-feed'
