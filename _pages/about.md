@@ -19,7 +19,7 @@ Asian Institute of Management\
 University of the Philippines Diliman \
 2013 - 2017
 
-Random tidbit: I spent *a week* at the AIM campus and I only briefly saw my classmates and professors, until the country went on lockdown starting March 15, 2020. I pursued my Master's degree during the height of the pandemic, because I've always know I've wanted to do this.
+Random tidbit: I spent *a week* at the AIM campus and I only briefly saw my classmates and professors, until the country went on lockdown starting March 15, 2020. I pursued my Master's degree during the height of the pandemic, because I've always known I wanted to do this.
 
 ## What I'm up to these days
 
