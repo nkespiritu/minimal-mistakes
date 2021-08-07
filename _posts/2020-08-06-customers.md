@@ -5,6 +5,7 @@ permalink: /customersegments
 tags: [customer segmentation, exploratory data analysis, clustering, transportation]
 header:
   image: "images/customers_banner.png"
+  caption: "Photo credit: [[**Chait Goli**](https://www.pexels.com/@chaitaastic)]"
 excerpt: "Finding customer segments within taxi and ridesharing transactions in Chicago."
 mathjax: "true"
 ---
