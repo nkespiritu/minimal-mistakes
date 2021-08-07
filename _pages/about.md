@@ -7,29 +7,12 @@ header:
   image: "/images/about.png"
 ---
 
-I'm Nika, a data scientist experienced with Python programming. I enjoy translating data into concrete, actionable business insights, may it be through creating data visualizations, dashboards, creating models, or analyzing results. Talk to me about your upcoming projects!
+I’m Nika, a data scientist experienced with Python programming. I enjoy translating data into concrete, actionable business insights, may it be through creating data visualizations, dashboards, creating models, or analyzing results. Prior to starting my data science journey, I spent 3 years in the renewable energy market, creating financial models and managing projects from development phase to commissioning.
 
-## Education
+**I’m currently looking for data scientist opportunities**. I’m also in the market for **freelance projects involving data visualizations and dashboarding solutions**. If you’d like to share an opportunity with me, please feel free to reach out to me or email me at nkoespiritu@gmail.com.
 
-:sunflower: **Master of Science in Data Science** \
-Asian Institute of Management\
-2020 - 2021
+### What I'm up to these days
 
-:seedling: **Bachelor of Science in Economics** \
-University of the Philippines Diliman \
-2013 - 2017
-
-Random tidbit: I spent *a week* at the AIM campus and I only briefly saw my classmates and professors, until the country went on lockdown starting March 15, 2020. I pursued my Master's degree during the height of the pandemic, because I've always known I wanted to do this.
-
-## What I'm up to these days
-
-I am currently:
-
-:weight_lifting_woman: brushing up on SQL and R \
-:black_nib: writing some articles in the pipeline
-
-## What I plan to do next
-
-:star2: Learn Javascript \
-:star2: Learn D3 \
-:star2: Publish a D3 project
+:weight_lifting_woman: working on R projects \
+:black_nib: writing some articles about building an end-to-end data architecture and building documentation using Sphinx (all in the pipeline for now!) \
+:cherry_blossom: continuously improving my website (if you have any tips or suggestions, let me know!)\
