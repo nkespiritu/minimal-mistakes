@@ -15,4 +15,4 @@ I’m Nika, a data scientist experienced with Python programming. I enjoy transl
 
 :weight_lifting_woman: working on R projects \
 :black_nib: writing some articles about building an end-to-end data architecture and building documentation using Sphinx (all in the pipeline for now!) \
-:cherry_blossom: continuously improving my website (if you have any tips or suggestions, let me know!)\
+:cherry_blossom: continuously improving my website (if you have any tips or suggestions, let me know!)
