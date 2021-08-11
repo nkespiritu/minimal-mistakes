@@ -15,12 +15,12 @@ show_date: "true"
 
 [![](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter)](https://github.com/nkespiritu/dmw-final-project/blob/9667192c7d84199eb87b2cad029c23cd5b0d874b/final-project-report.ipynb)       [![](https://img.shields.io/badge/Github-View_HTML-181717?logo=github)](https://github.com/nkespiritu/dmw-final-project/blob/9667192c7d84199eb87b2cad029c23cd5b0d874b/final-project-report.html) [![](https://img.shields.io/badge/Google_Drive-View_Slides-4285F4?logo=googledrive)](https://drive.google.com/file/d/1IISyFlZUErF1LMbY9-uKI0_6imNDfceq/view?usp=sharing)
 
-This is a final project for our Data Mining and Wrangling class held from May 2020 to August 2020. This was created alongside my Term 2 learning teammates: [Ethan Casin](https://www.linkedin.com/in/ethancasin/), [DK Go](https://www.linkedin.com/in/danielkristoffergo/), Karl Navarro, and [Daryll Tumambing](https://www.linkedin.com/in/daryll-tumambing/).  For this course, we were tasked to:
+*This is a final project for our Data Mining and Wrangling class held from May 2020 to August 2020. This was created alongside my Term 2 learning teammates: [Ethan Casin](https://www.linkedin.com/in/ethancasin/), [DK Go](https://www.linkedin.com/in/danielkristoffergo/), Karl Navarro, and [Daryll Tumambing](https://www.linkedin.com/in/daryll-tumambing/).  For this project, we were tasked to:*
 
-1. collect data via an API or by web scraping
-2. conduct vector representation, feature selection and/or dimensionality reduction, and clustering
+*1. collect data via an API or by web scraping*
+*2. conduct vector representation, feature selection and/or dimensionality reduction, and clustering*
 
-The findings of our final project were then [presented to the public](https://fb.me/e/2n61kQPJy). 
+*The findings of our final project were then [presented to the public](https://fb.me/e/2n61kQPJy).*
 
 ## Research question
 

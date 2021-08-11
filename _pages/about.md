@@ -5,9 +5,10 @@ layout: archive
 author_profile: true
 header:
   image: "/images/about.png"
+  caption: "Photo credit: [**Meo Fernando** from Pexels](https://www.pexels.com/photo/aerial-photo-of-cars-on-road-during-night-3214989/)"
 ---
 
-I’m Nika, a data scientist experienced with Python programming. I enjoy translating data into concrete, actionable business insights, may it be through creating data visualizations, dashboards, creating models, or analyzing results. Prior to starting my data science journey, I spent 3 years in the renewable energy market, creating financial models and managing projects from development phase to commissioning.
+I’m Nika, a data scientist experienced with Python programming. I enjoy translating data into concrete, actionable business insights, may it be through creating data visualizations, dashboards, machine learning models, or analyzing results. Prior to starting my data science journey, I spent 3 years in the renewable energy market, creating financial models and managing projects from development phase to commissioning.
 
 **I’m currently looking for data scientist opportunities**. I’m also in the market for **freelance projects involving data visualizations and dashboarding solutions**. If you’d like to share an opportunity with me, please feel free to reach out to me or email me at nkoespiritu@gmail.com.
 

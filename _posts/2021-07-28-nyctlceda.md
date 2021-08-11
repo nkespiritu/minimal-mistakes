@@ -15,7 +15,7 @@ show_date: "true"
 
 [![](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter)](https://github.com/nkespiritu/bdcc-mp2/blob/e299508dccd35b420be67d2f4fedf38419ef2e3a/T3_LT6A_BDCC_MP2.ipynb)       [![](https://img.shields.io/badge/Github-View_HTML-181717?logo=github)](https://github.com/nkespiritu/bdcc-mp2/blob/e299508dccd35b420be67d2f4fedf38419ef2e3a/T3_LT6A_BDCC_MP2.html)
 
-This mini project was written alongside my Term 3 learning team partner, [Jasper Pangan](https://www.linkedin.com/in/jasperkristianpangan/). This was submitted for our Big Data and Cloud Computing class held from September 2020 to January 2021. In this class, we were tasked to do an exploratory data analysis on 15 GB worth of data (size is prior to pre-processing). We were required to use Dask, a Python library specifically for wrangling big data.
+*This mini project was written alongside my Term 3 learning team partner, [Jasper Pangan](https://www.linkedin.com/in/jasperkristianpangan/). This was submitted for our Big Data and Cloud Computing class held from September 2020 to January 2021. In this mini project, we were tasked to do an exploratory data analysis on 15 GB worth of data (size is prior to pre-processing). We were required to use Dask, a Python library specifically for wrangling big data.*
 
 ## Objective
 
