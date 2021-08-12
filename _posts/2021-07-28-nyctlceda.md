@@ -31,7 +31,7 @@ As of writing this, data available was only from January 1, 2019 to June 30, 202
 
 ## Methodology
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/workflow.png" alt="Methodology">
+<img src="{{ site.url }}{{ site.baseurl }}/images/workflow.png" alt="Harnessing big data to analyze travel patterns in New York City">
 
 1. **Establishment of Dask Cluster**: We first set up our Dask scheduler and workers through Amazon Web Services’ Elastic Compute Cloud (AWS EC2) web service, as we will be dealing with \\(9.36\\) GB of data thus the need for distributed computing. To run the succeeding codes, we have assigned Jojie, the Asian Institute of Management's supercomputer, as our client.
 2. **Data Extraction**: After establishing the connections of our client, scheduler, and workers, we extracted NYC TLC data from the AWS Registry of Open Data [6]. The extracted data covers the period of January 2019 to June 2020 (the most recent data as of this study). To focus our efforts, the scope was trimmed down to Yellow Taxis which refers to the official taxicabs in New York City.
